@@ -3,6 +3,7 @@
 ## Latihan 1
 ### 1.Menjalankan tulisan "Hello" dilayar
 ### 2.Menampilkan tulisan "Saya sedang belajar python" dilayar
+![foto1](FOTO/foto1.png)
 ## Latihan 2
 ### Menjumlahkan dua buah variabel bilangan menggunakan variabel a dan b
 ### 1.Mendefinisikan variabel a dengan nilai 8
