@@ -10,8 +10,10 @@
 ### 2.Mendefinisikan variabel b dengan nilai 6
 ### 3.Mencetak nilai variabel a dan b 
 ### 4.Mencetak hasil penjumlahan a+b
+![foto2](FOTO/foto1.png)
 ## Latihan 3 
 ### 1.Menjalankan IDLE
 ### 2.Membuat file baru dengan nama *latihan3.py* (pastikan lokasi file pada folder lab2py pada direktori anda)
 ### 3.Menggunakan fungsi *input* untuk mengambil nilai variabel dari keyboard
-
+![foto3](FOTO/foto3.png)
+![foto4](FOTO/foto4.png)
