@@ -10,7 +10,7 @@
 ### 2.Mendefinisikan variabel b dengan nilai 6
 ### 3.Mencetak nilai variabel a dan b 
 ### 4.Mencetak hasil penjumlahan a+b
-![foto2](FOTO/foto1.png)
+![foto2](FOTO/foto2.png)
 ## Latihan 3 
 ### 1.Menjalankan IDLE
 ### 2.Membuat file baru dengan nama *latihan3.py* (pastikan lokasi file pada folder lab2py pada direktori anda)
