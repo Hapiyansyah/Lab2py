@@ -17,3 +17,14 @@
 ### 3.Menggunakan fungsi *input* untuk mengambil nilai variabel dari keyboard
 ![foto3](FOTO/foto3.png)
 ![foto4](FOTO/foto4.png)
+
+## Langkah-langkah Menggunakan PyCharm
+### Jika belum terinstal, silahkan download di https://www.jetbrains.com/pycharm/
+### Setelah selesai instalasi, buka *PyCharm*
+### Membuat laman kerja baru dengan menekan (+) atau Create New Project
+
+## Virtual Environment
+
+## Menambahkan File Baru
+
+## Menjalankan Program
