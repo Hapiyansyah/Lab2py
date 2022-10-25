@@ -24,5 +24,6 @@
 ### Membuat laman kerja baru dengan menekan (+) atau Create New Project
 ![foto5](FOTO/foto5.png)
 ## Virtual Environment
-
+![foto6](FOTO/foto6.png)
 ## Menjalankan Program
+![foto7](FOTO/foto7.png)
