@@ -22,7 +22,7 @@
 ### Jika belum terinstal, silahkan download di https://www.jetbrains.com/pycharm/
 ### Setelah selesai instalasi, buka *PyCharm*
 ### Membuat laman kerja baru dengan menekan (+) atau Create New Project
-
+![foto5](FOTO/foto5.png)
 ## Virtual Environment
 
 ## Menambahkan File Baru
