@@ -25,6 +25,4 @@
 ![foto5](FOTO/foto5.png)
 ## Virtual Environment
 
-## Menambahkan File Baru
-
 ## Menjalankan Program
